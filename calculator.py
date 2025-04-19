@@ -8,7 +8,7 @@ def sub(a, b):
     return a-b
 
 def mul(a, b):
-    return a/b
+    return a*b
 
 print(2, 4)
 print(3, 6)
